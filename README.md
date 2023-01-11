@@ -77,5 +77,6 @@
 
 
 ## 프론트 구성
+![ReactNativeDiagram](https://user-images.githubusercontent.com/76507017/211733346-9691ef30-589e-4579-b200-e126afb51849.svg)
 
-1/11 그림 추가 예정
+
